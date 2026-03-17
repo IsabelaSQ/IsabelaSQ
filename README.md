@@ -1,4 +1,4 @@
-# Olá, eu sou a [Seu Nome]! 👋
+# Olá, eu sou a Isabela! 👋
 
 ### Front-end Developer em constante evolução
 
@@ -27,8 +27,8 @@ Sou apaixonada por tecnologia e design, focada em criar interfaces web que sejam
 
 ### 📊 Meu GitHub Stats:
 
-![Stats do GitHub](https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&theme=radical)
+![Stats do GitHub](https://github-readme-stats.vercel.app/api?username=[IsabelaSQ]&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=[IsabelaSQ]&layout=compact&theme=radical)
 
 ---
 
