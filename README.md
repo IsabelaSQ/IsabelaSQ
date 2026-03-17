@@ -25,13 +25,6 @@ Sou apaixonada por tecnologia e design, focada em criar interfaces web que sejam
 
 ---
 
-### 📊 Meu GitHub Stats:
-
-![Stats do GitHub](https://github-readme-stats.vercel.app/api?username=[IsabelaSQ]&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=[IsabelaSQ]&layout=compact&theme=radical)
-
----
-
 ### 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-siqueira-013785128/)
