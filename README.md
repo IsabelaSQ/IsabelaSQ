@@ -21,7 +21,7 @@ Sou apaixonada por tecnologia e design, focada em criar interfaces web que sejam
 
 - 🔭 Trabalhando em projetos para praticar **Responsividade** e **Clean Code**.
 - 🌱 Estudando profundamente **JavaScript ES6+**.
-- 🥅 Objetivo para 2024: Iniciar os estudos em um framework (como **React** ou **Vue**).
+- 🥅 Objetivo para 2026: Iniciar os estudos em um framework (como **React** ou **Vue**).
 
 ---
 
